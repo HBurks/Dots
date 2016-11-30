@@ -1,0 +1,19 @@
+export GOPATH="$HOME/go"
+wd() {
+    . ~/Dots/Zsh/fpath/wd/wd.sh
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+source ~/Dots/Zsh/fpath/enhancd/init.sh
+
