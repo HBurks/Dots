@@ -1,0 +1,5 @@
+[tasks.default]
+    links = [
+		["Vim/vimfoldr"],
+		["Vim/vimrc"]
+    ]
